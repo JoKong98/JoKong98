@@ -25,7 +25,7 @@
 ## 🗒️ TIL
 
 > 매일 학습한 내용을 꾸준히 기록 중입니다.  
-📌 [TIL 저장소 바로가기](https://github.com/JoKong/TIL.git)
+📌 [TIL 저장소 바로가기](https://github.com/JoKong98/TIL.git)
 
 ---
 
