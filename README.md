@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**JoKong98/JoKong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## 🌱 About Me
 
 - 🔭 Currently in **SSAFY 14기 Python 트랙**
